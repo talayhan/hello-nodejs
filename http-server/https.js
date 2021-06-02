@@ -1,4 +1,6 @@
-//@TODO convert to ES6
+// @TODO convert to ES6
+// http object carries all the public
+// methods the http module lives somewhere within Nodejs provides
 var http = require("http");
 
 function onRequest(request, response) {
